@@ -2,7 +2,7 @@
 I'm a 3rd year Electrical Engineering and Computer Science major at MIT. 
 ___
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Demonstrating_Chaos_with_a_Double_Pendulum.gif" width="360" height="360" align="right"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Demonstrating_Chaos_with_a_Double_Pendulum.gif" width="370" height="370" align="right"/>
 
 ### Somethings I like to work on are:
 * Robotics, Control, and Dynamics
