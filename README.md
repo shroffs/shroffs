@@ -15,5 +15,5 @@ ___
 * C/C++ 🐇
 * Verilog ⚡
 
-🌊 Currently: Studying RF Engineering and Circuit Design + Underactuate Robotics.
+⛵ Currently: Studying RF Engineering and Circuit Design + Underactuate Robotics.
 ___
