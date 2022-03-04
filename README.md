@@ -11,9 +11,9 @@ ___
 * Deep Learning
 
 ### Core Languages I use are:
-* Python 🐍
-* C/C++ 🐇
-* Verilog ⚡
+* Python
+* C/C++
+* Verilog 
 
 ⛵ Currently: Studying RF Engineering and Circuit Design + Underactuate Robotics.
 ___
