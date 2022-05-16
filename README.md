@@ -15,5 +15,5 @@ ___
 * C/C++
 * Verilog 
 
-⛵ Currently: Studying MMIC Design and Pneumatic Circuits
+⛵ Currently: Studying MMIC Design, Pneumatic Circuits, and Rocket Propulsion.
 ___
